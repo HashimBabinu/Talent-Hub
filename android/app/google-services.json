@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043725890221",
+    "project_id": "talent-hub-ac344",
+    "storage_bucket": "talent-hub-ac344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043725890221:android:e876709aee2fac9ff68c24",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgtRW2GbNWTQh0QMasy2qZaRkYoRSr1e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
